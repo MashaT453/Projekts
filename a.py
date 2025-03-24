@@ -1,1 +1,2 @@
-adasasd
+print("adasasd")
+print("helllo")
